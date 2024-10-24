@@ -24,4 +24,4 @@ You can view a live demo of the project [[here](https://shubham4672.github.io/Ul
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/shubham4672/UltraEdit-Text-Editor-UI-Clone/tree/main
+https://github.com/shubham4672/UltraEdit-Text-Editor-UI-Clone.git
